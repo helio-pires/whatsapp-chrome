@@ -5,39 +5,39 @@
 
   //RATE
   "rate_doYouLike": {
-    "message": "Você gosta WhatsChrome?"
+    "message": "Você gosta do WhatsChrome?"
   },
   "rate_rate5star": {
-    "message": "Clique aqui e taxa de nós 5 estrelas"
+    "message": "Clique aqui e avalie o aplicativo com 5 estrelas"
   },
   "rate_fb": {
-    "message": "Clique aqui para compartilhá-la no Facebook"
+    "message": "Clique aqui para partilhar no Facebook"
   },
   "rate_link": {
-    "message": "Clique aqui para copiar o url Chrome Store e compartilhá-lo"
+    "message": "Clique aqui para copiar o endereço Chrome Store e partilhar com seus amigos"
   },
   "rate_remindMe": {
-    "message": "Lembre-me de amanhã"
+    "message": "Me lembre amanhã"
   },
   "rate_dontRemindMe": {
-    "message": "Nunca mostrar novamente"
+    "message": "Não mostrar novamente"
   },
 
 
   //SHARE MENU
   "share_menu_title": {
-    "message": "Compartilhe WhatsChrome com amigos"
+    "message": "Partilhe WhatsChrome com seus amigos"
   },
   "share_fb": {
-    "message": "Compartilhar no Facebook"
+    "message": "Partilhar no Facebook"
   },
   "share_twitter": {
-    "message": "Compartilhar no Twitter"
+    "message": "Partilhar no Twitter"
   },
   "share_twitter_payload": {
-    "message": "Agora você pode usar o WhatsApp no seu computador com #whatschrome ! http://goo.gl/6vYqtI"
+    "message": "Você já pode usar o WhatsApp no seu computador com #whatschrome ! http://goo.gl/6vYqtI"
   },
   "share_link": {
-    "message": "Url cópia Chrome Store"
+    "message": "Copiar o endereço da Chrome Store"
   }
 }
